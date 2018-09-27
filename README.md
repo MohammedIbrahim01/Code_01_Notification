@@ -1,2 +1,5 @@
-# Code_01_Notification
-Andriod Notification snippets
+# Code_Snippets_android
+
+Andriod snippets to help grasp a lot of information 
+
+on dealing with android classes
